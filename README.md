@@ -45,7 +45,4 @@ If you’d like to collaborate or have questions about my projects, feel free to
 ![](https://nirzak-streak-stats.vercel.app/?user=Sanjog-Godar&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjog-Godar&theme=dark&hide_border=true&layout=compact)
 
----
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Sanjog-Godar&limit=5&theme=transparent&combine_all_yearly_contributions=true)
